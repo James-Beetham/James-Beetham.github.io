@@ -13,7 +13,7 @@ I'm a fifth-year Ph.D. student in the Center for Research in Computer Vision (CR
 ## News
 
 
-- **[Apr. 2023]** Presented model stealing paper @ ICLR 2022.
+- **[Apr. 2023]** Presented model stealing paper @ ICLR 2023.
 - **[Jan. 2023]** ICLR 2023 paper accepted for poster presentation.
 - **[Aug. 2022]** Presented black-box white-box adversarial attack detection paper in Montreal @ ICPR 2022.
 - **[Mar. 2022]** ICPR 2022 paper accepted for poster presentation.
