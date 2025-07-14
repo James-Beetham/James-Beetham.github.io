@@ -12,7 +12,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2309.10058"></a>Dual student networks for data-free model stealing</div>
     <div class="author"><strong>James Beetham</strong>, Navid Kardan, Ajmal Mian, Mubarak Shah</div>
-    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.</em></div>
+    <div class="periodical"><em>International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2309.10058" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">ArXiV</a>
       <a href="https://github.com/James-Beetham/dual_students" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
